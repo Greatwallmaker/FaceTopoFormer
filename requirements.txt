@@ -1,0 +1,4 @@
+torch>=2.0,<3
+numpy>=1.21,<2
+Pillow>=9.0
+plyfile>=0.7
